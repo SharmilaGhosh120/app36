@@ -1,0 +1,8 @@
+streamlit
+pandas
+requests
+pdfkit
+ratelimit
+bcrypt
+python-dotenv
+wkhtmltopdf 
